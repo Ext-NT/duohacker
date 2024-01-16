@@ -5,11 +5,11 @@
 // @supportURL       https://github.com/smintf/duohacker/issues
 // @version          1.0.5
 // @description      An autoanswer script for Duolingo.
-// @author           Smint <smintoverflow@gmail.com>
-// @copyright        Smint
-// @match            https://www.duolingo.com/skill*
-// @match            https://www.duolingo.com/alphabet*
-// @match            https://www.duolingo.com/checkpoint*
+// @author           existence <tornadotyping@gmail.com>
+// @copyright        existence
+// @match            https://www.duolingo.com/learn*
+// @match            https://www.duolingo.com/lesson*
+// @match            https://www.duolingo.com/legendary*
 // @match            https://www.duolingo.com/stories*
 // @match            https://www.duolingo.com/practice*
 // @license          MIT
